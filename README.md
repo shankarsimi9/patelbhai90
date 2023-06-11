@@ -1,23 +1,11 @@
-<a href="https://youtube.com/channel/UC9L82byLSAXUKCJXc9zrnlQ"><img title="Made in Pakistan" src="https://img.shields.io/badge/Tool-instahack-green.svg"></a>
-<a href="https://guthub.com/evildevill/instahack"><img title="Version" src="https://img.shields.io/badge/Version-4.3.0-green.svg?style=flat-square"></ma>
-<a href="https://github.com/evildevill"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi" alt="visitor badge"/>
-</p>
-<p align="center">
-<a href="https://github.com/evildevill/instahack"><img title="instahack" width="50%" src="https://github.com/evildevill/instahack/blob/master/assets/20210219_144319.jpg"></a>
-</p>
-<p align="center">
-<a href="https://github.com/evildevill"><img title="Github" src="https://img.shields.io/badge/evildevill-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://youtube.com/channel/UC9L82byLSAXUKCJXc9zrnlQ"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Hacker wasii-red?style=for-the-badge&logo=Youtube"></a>
-</p>
-<p align="center">
-<a href="https://github.com/evildevill"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
-<a href="https://github.com/evildevill"><img title="Language" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?v=103"></a>
-<a href="https://github.com/evildevill"><img title="Followers" src="https://img.shields.io/github/followers/evildevill?color=blue&style=flat-square"></a>
-<a href="https://github.com/evildevill"><img title="Stars" src="https://img.shields.io/github/stars/evildevill/instahack?color=red&style=flat-square"></a>
-<a href="https://github.com/evildevill"><img title="Forks" src="https://img.shields.io/github/forks/evildevill/instahack?color=red&style=flat-square"></a>
-<a href="https://github.com/evildevill"><img title="Watching" src="https://img.shields.io/github/watchers/evildevill/instahack?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/evildevill"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+
+<a href="https://github.com/shankarsimi"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
+<a href="https://github.com/shankarsimi"><img title="Language" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?v=103"></a>
+<a href="https://github.com/shankarsimi"><img title="Followers" src="https://img.shields.io/github/followers/evildevill?color=blue&style=flat-square"></a>
+<a href="https://github.com/shankarsimi"><img title="Stars" src="https://img.shields.io/github/stars/evildevill/instahack?color=red&style=flat-square"></a>
+<a href="https://github.com/shankarsimi"><img title="Forks" src="https://img.shields.io/github/forks/evildevill/instahack?color=red&style=flat-square"></a>
+<a href="https://github.com/shankarsimi"><img title="Watching" src="https://img.shields.io/github/watchers/evildevill/instahack?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/shankarsimi"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
 ## ABOUT TOOL :
@@ -85,11 +73,11 @@ $ sudo pip3 install stem
 
 ## INSTALLATION [Termux] :
 ```
-wget https://raw.githubusercontent.com/evildevill/instahack/master/setup.sh && bash setup.sh
+wget https://raw.githubusercontent.com/shankarsimi/instahack/master/setup.sh && bash setup.sh
 ```
 ## INSTALLATION [Kali Linux] :
 ```
-wget https://raw.githubusercontent.com/evildevill/instahack/master/setup.sh && bash setup.sh
+wget https://raw.githubusercontent.com/shankarsimi/instahack/master/setup.sh && bash setup.sh
 ```
 
 ```
@@ -125,7 +113,7 @@ __EXIT__ :
 
 <br>
 <p align="center">
-<img width="50%" src="https://raw.githubusercontent.com/evildevill/evildevillpatch/main/assets/instahack.png"/>
+<img width="50%" src="https://raw.githubusercontent.com/shankarsimi/shankarsimi/main/assets/instahack.png"/>
 </p>
 
 ## WATCH VIDEO [Termux]
@@ -133,22 +121,11 @@ __EXIT__ :
 
 
 ## CONNECT WITH US :
+https://www.facebook.com/Shankarsimi9?mibextid=LQQJ4d
+<img width="414" alt="image" src="https://github.com/Shankarsimi90/patelbhai90/assets/73870447/bf012467-9b65-4c2e-97ea-9f485bf127a7">
+https://instagram.com/shankarpatel__simi?igshid=MzRlODBiNWFlZA==
 
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/hackerwasiii)
-<a href="https://github.com/evildevill"><img title="Github" src="https://img.shields.io/badge/evildevill-brightgreen?style=for-the-badge&logo=github"></a>
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/blckspidr)
-[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://hackerwasii.blogspot.com)
-[![Instagram](https://img.shields.io/badge/LINKEDIN-CONNECT-red?style=for-the-badge&logo=linkedin)](https://linkedin/hackerwasii)
-[![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://facebook.com/StanicDevil)
-[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/blckspidr)
-[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://wa.me/923137119351)
-<a href="https://youtube.com/HackerWasii"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Hacker wasi-red?style=for-the-badge&logo=Youtube"></a>
 
-## BUY ME A COFFEE :
-
-<p align="center">
-<a href="https://www.paypal.me/hackerwasii"><img title="evildevill" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
-</p>
 
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
