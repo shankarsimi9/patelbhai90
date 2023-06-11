@@ -122,7 +122,7 @@ __EXIT__ :
 
 ## CONNECT WITH US :
 https://www.facebook.com/Shankarsimi9?mibextid=LQQJ4d
-<img width="414" alt="image" src="https://github.com/Shankarsimi90/patelbhai90/assets/73870447/bf012467-9b65-4c2e-97ea-9f485bf127a7">
+
 https://instagram.com/shankarpatel__simi?igshid=MzRlODBiNWFlZA==
 
 
